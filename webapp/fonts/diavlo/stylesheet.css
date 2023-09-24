@@ -1,0 +1,21 @@
+@font-face 
+{
+	font-family: 'Diavlo Black';
+	src: url('Diavlo_BLACK_II_37.otf');
+	src: local('Diavlo Black'), local('Diavlo-Black'), url('Diavlo_BLACK_II_37.otf') format('opentype');
+}
+
+
+@font-face 
+{
+	font-family: 'Diavlo Bold';
+	src: url('Diavlo_BOLD_II_37.otf');
+	src: local('Diavlo Bold'), local('Diavlo-Bold'), url('Diavlo_BOLD_II_37.otf') format('opentype');
+}
+
+@font-face 
+{
+	font-family: 'Diavlo Light';
+	src: url('Diavlo_LIGHT_II_37.otf');
+	src: local('Diavlo Light'), local('Diavlo-Light'), url('Diavlo_LIGHT_II_37.otf') format('opentype');
+}

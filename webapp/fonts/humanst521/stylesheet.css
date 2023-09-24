@@ -1,0 +1,6 @@
+@font-face 
+{
+	font-family: 'Humanst521BT';
+	src: url('Humanst521_BT_Bold.ttf');
+	src: local('Humanst521BT'), local('Humanst521BT-Bold'), url('Humanst521_BT_Bold.ttf') format('truetype');
+}

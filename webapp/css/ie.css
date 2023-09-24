@@ -1,0 +1,20 @@
+#summaryarea h2			{ padding:0px;  }
+
+/***************************************************************************************
+										HOMEPAGE - HEADER
+***************************************************************************************/
+h1.mainheading													{ font-size:24px; }
+#why_us	h2														{ font-size:24px; }
+#quick_links ul li												{ padding:1px 15px 3px 7px; }
+
+
+#logo_container													{ position:absolute; top:98px; z-index:9999;  }
+#logo_container #social_icons									{ float:right; margin:10px 0px; }
+#social_icons_inner												{ margin-right:90px; }
+.ie-spacer														{ height:75px; }
+
+/***************************************************************************************
+										LISTS
+***************************************************************************************/
+
+ul#comment-list li								{ padding-bottom:0px; }
