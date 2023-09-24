@@ -22,4 +22,4 @@ patches:
 images:
 - name: webapp:latest
   newName: lhr.ocir.io/lrhvckxzwf3l/crea8ivedesign
-  newTag: 0ff18c3fb00d945ab98824f0bd6c6337993ceae8
+  newTag: a07901efca260626c038697b568783b335cd9f0e
